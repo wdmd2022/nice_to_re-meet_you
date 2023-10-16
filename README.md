@@ -5,7 +5,7 @@
 ## Background
 I wrote "Nice to (re-)Meet You!" because my software engineering school would ocassionally ask us to refer to resources on sites like realpython.com, which would throw up an un-closeable popup insisting that I had read too many articles for a guy without an account.
 
-These messages would pop up even if I had simply read the same article multiple times! 
+These messages would pop up even if I had simply read the same article multiple times!
 
 So, I put together a simple extension for Google Chrome to make those pop-ups go away.
 
@@ -41,3 +41,6 @@ Your lovely new extension should now be hanging out with your other installed ex
 
 #### Give It a Whirl:
 Click the extension's shiny new icon in your toolbar and experience the wonders of a world without article reading limits based on your local storage!
+
+## Author
+Me (Douglas)
